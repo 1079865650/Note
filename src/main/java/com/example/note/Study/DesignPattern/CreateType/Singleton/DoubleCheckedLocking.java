@@ -1,4 +1,4 @@
-package com.wws.summary_util.Study.DesignPattern.CreateType.Singleton;
+package com.example.note.Study.DesignPattern.CreateType.Singleton;
 
 /**
  * @description: null

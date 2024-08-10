@@ -1,7 +1,7 @@
-package com.wws.summary_util.Study.DesignPattern.Controller;
+package com.example.note.Study.DesignPattern.Controller;
 
-import com.wws.summary_util.Study.DesignPattern.CreateType.Singleton.Singleton;
-import org.junit.Test;
+import com.example.note.Study.DesignPattern.CreateType.Singleton.Singleton;
+import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
